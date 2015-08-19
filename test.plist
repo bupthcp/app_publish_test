@@ -16,7 +16,7 @@
                    <string>software-package</string>
                    <!-- required.  the URL of the file to download. -->
                    <key>url</key>
-                   <string>https://10.241.60.127/app.ipa</string>
+                   <string>https://raw.githubusercontent.com/bupthcp/app_publish_test/master/app.ipa</string>
                </dict>
                <!-- display-image: the icon to display during download. -->
                <dict>
@@ -26,7 +26,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://10.241.60.127/logo/logo_57.png</string>
+                   <string>https://raw.githubusercontent.com/bupthcp/app_publish_test/master/logo_57.png</string>
                </dict>
                <!-- full-size-image: the large 512×512 icon used by iTunes. -->
                <dict>
@@ -35,7 +35,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://10.241.60.127/logo/logo_512.png</string>
+                   <string>https://raw.githubusercontent.com/bupthcp/app_publish_test/master/logo_512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
